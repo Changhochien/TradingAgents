@@ -115,6 +115,7 @@ MODEL_OPTIONS: ProviderModeOptions = {
     "minimax": {
         "quick": [
             ("MiniMax M2.5 - Fast, strong coding and agent", "MiniMax-Text-01"),
+            ("MiniMax M2.7 - Latest flagship", "MiniMax-Text-01"),
             ("MiniMax M2-her - Multi-role, long conversation", "MiniMax-Text-01"),
             ("Custom model ID", "custom"),
         ],
